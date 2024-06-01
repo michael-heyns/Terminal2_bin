@@ -2,3 +2,5 @@
 # Terminal2 Binaries
 
 Sources and description can be found here: https://github.com/michael-heyns/Terminal2
+
+(Terminal2.exe is just a copy of the latest Terminal2_vx.x.x.x_sighed.exe file)
