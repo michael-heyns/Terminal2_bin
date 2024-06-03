@@ -1,5 +1,5 @@
 ![Terminal2](https://github.com/michael-heyns/Terminal2_bin/assets/4144679/4b4004a6-cc63-45ed-a180-4b120190165c)
-# Terminal2 Executable
+# Terminal2 Executable (v1.3.4.3)
 
 Sources and description can be found here: https://github.com/michael-heyns/Terminal2
 
