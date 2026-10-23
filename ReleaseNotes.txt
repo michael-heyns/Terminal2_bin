@@ -9,5 +9,8 @@ v1.6.2.0
    processing on a decrypted Base64 string.
 4. Terminal2 will auto-upgrade
 
+v1.6.2.0
+1. <Ctrl> + Left-right mouse movement removed- redundant mechanism
+
 
 
