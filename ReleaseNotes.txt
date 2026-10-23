@@ -1,0 +1,13 @@
+Terminal2 Release notes
+
+v1.6.2.0
+1. Mouse-down --> move up or down --> Mouse-up
+   Copies the selected lines to the Windows Clipboard for pasting into applications such as Notepad++.
+2. <Ctrl> + Double-Click on a Base64 word on the screen will test to see if it's a valid Base64 string.
+   If so, it will pop up a window that shows the decoded Base64 string (in HEX and ASCII)
+3. Assign a program (.exe file) to the Windows Environment variable "Base64Decryptor" in order to do further
+   processing on a decrypted Base64 string.
+4. Terminal2 will auto-upgrade
+
+
+
