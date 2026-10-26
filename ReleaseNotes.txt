@@ -1,6 +1,14 @@
 Terminal2 Release notes
 
-v1.6.2.0
+v1.6.3.0 (27/10/2026)
+1. The HEX checkbox has been replaced with HEX16 and HEX32
+   When selected with TEXT, it will show the text line followed by a HEX dump of that line.
+   When selected without TEXT, it will show a hex dump with printable text on the side.
+
+v1.6.2.1 (23/10/2026)
+1. <Ctrl> + Left-right mouse movement removed: redundant mechanism
+
+v1.6.2.0 (22/10/2026)
 1. Mouse-down --> move up or down --> Mouse-up
    Copies the selected lines to the Windows Clipboard for pasting into applications such as Notepad++.
 2. <Ctrl> + Double-Click on a Base64 word on the screen will test to see if it's a valid Base64 string.
@@ -8,9 +16,5 @@ v1.6.2.0
 3. Assign a program (.exe file) to the Windows Environment variable "Base64Decryptor" in order to do further
    processing on a decrypted Base64 string.
 4. Terminal2 will auto-upgrade
-
-v1.6.2.1
-1. <Ctrl> + Left-right mouse movement removed: redundant mechanism
-
 
 
