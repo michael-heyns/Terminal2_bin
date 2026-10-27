@@ -1,5 +1,8 @@
 Terminal2 Release notes
 
+v1.6.4.0 (27/10/2026)
+1. Event handling increased from 11 to 50 (see [Events] button)
+
 v1.6.3.0 (27/10/2026)
 1. The HEX checkbox has been replaced with HEX16 and HEX32
    When selected with TEXT, it will show the text line followed by a HEX dump of that line.
